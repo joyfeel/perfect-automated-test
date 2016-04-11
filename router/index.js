@@ -4,7 +4,7 @@ import faker from 'faker'
 const router = new Router()
 
 router.get('/hello', async (ctx, next) => {
-  ctx.response.body = "Hello World"
+  ctx.response.body = "Hello Worlds"
   ctx.response.status = 200
 })
 
