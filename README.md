@@ -1,2 +1,2 @@
-# webpack-hmr-koa2-boilerplate
-Lazy boilerplate for myself!
+# perfect-automated-test
+Build a full stack automated testing tool ✨
