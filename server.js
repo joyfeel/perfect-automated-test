@@ -1,4 +1,4 @@
-//git pull upstream master & & git push origin master .
+// git pull upstream master && git push origin master
 import Koa from 'koa'
 import path from 'path'
 import bodyParser from 'koa-bodyparser';
